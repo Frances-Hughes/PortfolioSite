@@ -1,8 +1,6 @@
-import { Box, Button, Typography, styled } from "@mui/material";
-import React from "react";
-import Testimonial from "./Testimonial";
-
-import React from "react";
+import { Box, Button, Typography, styled } from '@mui/material';
+import React from 'react';
+import Testimonial from './Testimonial';
 
 const About = () => {
   return <></>;
